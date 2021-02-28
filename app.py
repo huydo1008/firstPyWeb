@@ -6,5 +6,5 @@ app = Flask(__name__)
 def main():
     return render_template('index.html')
 
-def hello():
-    return "Hello HUY DO!"
+#def hello():
+ #   return "Hello HUY DO!"
